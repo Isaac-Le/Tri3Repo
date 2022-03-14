@@ -70,17 +70,11 @@ Ex:
 
 
 ``` 
-# Main list of [Prompts, Actions]
-# Two styles are supported to execute abstracted logic
-# 1. file names will be run by exec(open("filename.py").read())
-# 2. function references will be executed directly file.function()
 main_menu = [
     ["Swap", "swap.py"],
     ["Tree", "tree.py"]
 ]
 
-# Submenu list of [Prompt, Action]
-# Works similarly to main_menu
 sub_menu = [
     ["Among Us", "amongus.py"],
     ["Keypad", "keypad.py"]
@@ -148,26 +142,19 @@ def buildMenu(banner, options):
     try:
         choice = int(choice)
         if choice == 0:
-            # stop
             return
         try:
-            # try as function
             action = prompts.get(choice)[1]
             action()
         except TypeError:
-            try:  # try as playground style
+            try:  
                 exec(open(action).read())
             except FileNotFoundError:
                 print(f"File not found!: {action}")
-            # end function try
-        # end prompts try
     except ValueError:
-        # not a number error
         print(f"Not a number: {choice}")
     except UnboundLocalError:
-        # traps all other errors
         print(f"Invalid choice: {choice}")
-    # end validation try
 
     buildMenu(banner, options)  # recursion, start menu over again
 
