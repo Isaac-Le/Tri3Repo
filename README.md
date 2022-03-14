@@ -69,7 +69,8 @@ Ex:
 ### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)
 
 
-``` # Main list of [Prompts, Actions]
+``` 
+# Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
