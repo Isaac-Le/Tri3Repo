@@ -65,3 +65,5 @@ Ex:
 ### 2. Someone that is empowered can help someone that is not empowered by obtaining or giving them things that they don't have. You can help supply their needs and offer people feedback and input. Something that I could do at Del Norte HS would be teaching people how to use their current digital world access and expand upon it giving them more knowledge and helping empower in the digital space.
 ### 3. Yes there are many red tapes and papers blocking off in digital empowerment. Some barriers that exist in Del Norte HS include blocked websites that you can't access without a vpn. Their are papers blocking off digital empowerment everywhere we look, whether it be financial issues, supply and demand, or even when you have access to the digital world there are still some features that are being blocked off, for example what I said earlier with DNHS blocking off certain sites.
 
+# Data Structures
+### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)
