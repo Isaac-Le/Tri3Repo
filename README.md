@@ -1,3 +1,4 @@
+{% include_relative navbar.md %}
 # Tri3Repo
 
 
