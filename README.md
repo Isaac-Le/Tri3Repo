@@ -1,7 +1,6 @@
-{% include_relative navbar.md %}
 # Tri3Repo
-
-
+| [Home Page](https://isaac-le.github.io/Tri3Repo/) | [Test Prep](https://isaac-le.github.io/Tri3Repo/testprep) | Joe biden |
+|--------------------------------------------------|-----------------------|---------------------|
 
 # Data Structures
 ### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)
