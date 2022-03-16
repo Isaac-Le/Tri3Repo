@@ -1,8 +1,6 @@
 {% include navbar.html %}
 
 # Tri3Repo
-| [Home Page](https://isaac-le.github.io/Tri3Repo/) | [Test Prep](https://isaac-le.github.io/Tri3Repo/testprep) | Data Structures |
-|--------------------------------------------------|-----------------------|---------------------|
 
 # Data Structures
 ### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)
