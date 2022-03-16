@@ -1,4 +1,3 @@
-
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -11,7 +10,7 @@ main_menu = [
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Ship", "ship.py"],
+    ["Among Us", "amongus.py"],
     ["Keypad", "keypad.py"]
 ]
 
