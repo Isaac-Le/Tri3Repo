@@ -20,7 +20,7 @@ def ship_print(position):
     print(RESET_COLOR)
     sp = " " * position
     print(sp + "   ___   ")
-    print(sp + "  / ඞ \   ")
+    print(sp + "  / ඞ \   ") 
     print(sp + "  \___/ ")
     print(RESET_COLOR)
 
