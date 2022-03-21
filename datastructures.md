@@ -1,10 +1,11 @@
 {% include navbar.html %}
 
 # Data Structures
-### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)  
-### (Replit embed at the bottom)
-### This is my meny code
+### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)   
 
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@IsaacLe2/Tri3Repo?embed=true" > 
+    
+### This is my menu code
 
 ``` 
 main_menu = [
@@ -100,5 +101,36 @@ if __name__ == "__main__":
     menu()
     #menuc() 
 ```
+    
+### This is my datalists code
+    
+```
+    InfoDb = []
+# List with dictionary placed in a list  
+InfoDb.append({  
+               "FirstName": "Isaac",  
+               "LastName": "Le",  
+               "DOB": "May 27",  
+               "Residence": "San Diego",  
+               "Email": "isaacl51471@stu.powayusd.com",  
+               "Owns_Cars":["1998 Lexus es300", "2022 Toyota Prius", "2018 Toyota Sienna"]  
+              })  
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@IsaacLe2/Tri3Repo?embed=true" > 
+InfoDb.append({  
+               "FirstName": "Louis",  
+               "LastName": "Le",  
+               "DOB": "July 10",  
+               "Residence": "San Diego",  
+               "Email": "louisl39859@powayusd.com",  
+               "Owns_Cars":["A","B","C"]  
+              })  
+# for loop iterates on length of InfoDb
+def print_data(n):
+    print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
+    print("\t", "Cars: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Owns_Cars"]))  # join allows printing a string list with separator
+    print()
+    
+```
+
+
