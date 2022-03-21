@@ -64,3 +64,21 @@ Ex:
 ### 1. People empower themselves in a digital world by first having access to the digital world, and then using the information and tools that they have obtained from this digital world to benefit themselves or others.
 ### 2. Someone that is empowered can help someone that is not empowered by obtaining or giving them things that they don't have. You can help supply their needs and offer people feedback and input. Something that I could do at Del Norte HS would be teaching people how to use their current digital world access and expand upon it giving them more knowledge and helping empower in the digital space.
 ### 3. Yes there are many red tapes and papers blocking off in digital empowerment. Some barriers that exist in Del Norte HS include blocked websites that you can't access without a vpn. Their are papers blocking off digital empowerment everywhere we look, whether it be financial issues, supply and demand, or even when you have access to the digital world there are still some features that are being blocked off, for example what I said earlier with DNHS blocking off certain sites.
+
+## 5.3 Notes
+
+* Bias exists everywhere
+> * Bias includes rejecting somebody based on their age, gender, or ethnicity/race because it did not fit your computing model
+* Questions to ask about bias
+> * Enhancing or intentionally excluding?
+> * Intentionally harmful/hateful?
+> * Receiving feedback from a wide variety of people?
+
+## 5.4 Notes
+* Distributive computing
+> * Use it to compute faster
+* Citizen science
+> * Giving citizens control of scientific research as long as it isn’t too demanding so the actual scientists can collect the data and use it
+* Crowdsourcing
+> * Gaining information and data by obtaining the services of a large group of people 
+
