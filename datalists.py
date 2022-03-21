@@ -1,5 +1,5 @@
 InfoDb = []
-# List with dictionary records placed in a list  
+# List with dictionary placed in a list  
 InfoDb.append({  
                "FirstName": "Isaac",  
                "LastName": "Le",  
@@ -15,7 +15,7 @@ InfoDb.append({
                "DOB": "July 10",  
                "Residence": "San Diego",  
                "Email": "louisl39859@powayusd.com",  
-               "Owns_Cars":["A","B","C"]  
+               "Owns_Cars":["1998 Lexus es300", "2022 Toyota Prius", "2018 Toyota Sienna"]  
               })  
 # for loop iterates on length of InfoDb
 def print_data(n):
