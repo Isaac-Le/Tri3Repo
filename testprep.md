@@ -74,6 +74,14 @@ Ex:
 > * Intentionally harmful/hateful?
 > * Receiving feedback from a wide variety of people?
 
+## Github pages action
+### 1. The owner of the computer does not think that this is intentional
+### 2. No because he seems to be joking about it and doesn't seemed to angered about it
+### 3. This probably happened because when making the program or system they didn't have or test it anyone that is Black which is why they didn't see the fault in the program
+### 4. This is harmful to some people because they can see it as the computer companies not caring or thinking about people other than people that are White, and while I don't think it was intended it could still cause issues
+### 5. Yes the program should be corrected
+### 6. Think about all the bias's that could occur inside of a group and try to stop any problems before they start
+
 ## 5.4 Notes
 * Distributive computing
 > * Use it to compute faster
@@ -82,3 +90,6 @@ Ex:
 * Crowdsourcing
 > * Gaining information and data by obtaining the services of a large group of people 
 
+## Github pages action
+### 1. A crowdsource idea in our enviornment could be a poll on whether or not you find CompSci hard to learn or not and we can collect that data and see how many people find learning CompSci easy and how many find it hard to learn CompSci
+### 2. For Del Norte we could have a poll asking people about there input on who finds school easy and who finds school difficult. Yes our project could be better with crowdsourcing because with croud sourcing we are able to get feedback from many sources if we give it out to the public to test out
