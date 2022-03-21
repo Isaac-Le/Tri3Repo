@@ -2,8 +2,8 @@
 
 # Data Structures
 ### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)   
+(Replit Embed at the Bottom)
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@IsaacLe2/Tri3Repo?embed=true" > 
     
 ### This is my menu code
 
@@ -135,4 +135,4 @@ def print_data(n):
     
 ```
 
-
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@IsaacLe2/Tri3Repo?embed=true" > 
