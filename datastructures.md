@@ -103,6 +103,8 @@ if __name__ == "__main__":
 ```
     
 ### This is my datalists code
+* There is an open list wher we will make a dictionary and input the data into the list
+* Then we extract the data from the dictionary and the list and we print the data out in either a for loop, while loop, and recursion 
     
 ```
     InfoDb = []
