@@ -1,7 +1,9 @@
 {% include navbar.html %}
 
 # Data Structures
-### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)
+### [Replit Link](https://replit.com/@IsaacLe2/Tri3Repo#main.py)  
+### (Replit embed at the bottom)
+### This is my meny code
 
 
 ``` 
@@ -98,3 +100,5 @@ if __name__ == "__main__":
     menu()
     #menuc() 
 ```
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@IsaacLe2/Tri3Repo?embed=true" > 
