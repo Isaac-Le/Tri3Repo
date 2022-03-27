@@ -2,13 +2,14 @@
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
-import amongus
-import datalists
+from week0 import amongus, keypad, swap, tree
+from week1 import datalists, fibonacci
+from week2 import fibonacci_class, imperative_math, oop_math
 
 main_menu = [
-    ["Swap", "swap.py"],
-    ["Tree", "tree.py"],
-    ["Fibonacci", "fibonacci.py"],
+    ["Swap", swap.ageswap],
+    ["Tree", tree.tree_run],
+    ["Fibonacci", fibonacci.fibonacci_run],
     ["Datalists", datalists.main]
 ]
 
@@ -16,7 +17,10 @@ main_menu = [
 # Works similarly to main_menu
 sub_menu = [
     ["Among Us", amongus.ship],
-    ["Keypad", "keypad.py"]
+    ["Keypad", keypad.keypad],
+    ["Fibonacci Class", fibonacci_class.fibonacci_class],
+    ["Greatest Common Denominator", imperative_math.gcd_run],
+    ["OOP Math", oop_math.gcd_run]
 
 ]
 

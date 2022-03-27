@@ -46,3 +46,6 @@ def main():
   while_loop(0)
   print("Recursive loop: ")
   recursive_loop(0)
+
+if __name__ == "__main__":
+    main()

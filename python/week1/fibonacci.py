@@ -42,18 +42,20 @@ class Fibonacci:
     def get_sequence(self, nth):
         return self._dict[nth]
 
+def fibonacci_run():
+  '''Value for testing'''
+  n = int(input("Choose a number:"))
+  '''Constructor of Class object'''
+  fibonacci = Fibonacci(n)
+
+  '''Using getters to obtain data from object'''
+  print(f"Fibonacci number for {n} = {fibonacci.number}")
+  print(f"Fibonacci series for {n} = {fibonacci.list}")
+
+  '''Using method to get data from object'''
+  for i in range(n):
+      print(f"Fibonacci sequence {i + 1} = {fibonacci.get_sequence(i)}")
 
 # Tester Code
 if __name__ == "__main__":
-    '''Value for testing'''
-    n = int(input("Choose a number:"))
-    '''Constructor of Class object'''
-    fibonacci = Fibonacci(n)
-
-    '''Using getters to obtain data from object'''
-    print(f"Fibonacci number for {n} = {fibonacci.number}")
-    print(f"Fibonacci series for {n} = {fibonacci.list}")
-
-    '''Using method to get data from object'''
-    for i in range(n):
-        print(f"Fibonacci sequence {i + 1} = {fibonacci.get_sequence(i)}")
+    fibonacci_run()
