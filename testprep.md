@@ -6,19 +6,19 @@
 
 * Accelerometer used in Wiis, iPhones, Drones, automobiles, etc.
 * Multirotor
-> * Benefits - Deliveries, finding lost people, aerial photography is easy
-> * Harmful - Flying in unregulated zones is illegal and dangerous, privacy concerns 
+  * Benefits - Deliveries, finding lost people, aerial photography is easy
+  * Harmful - Flying in unregulated zones is illegal and dangerous, privacy concerns 
 * Wii controller
-> * Benefits - Gets people active playing video games
-> * Harmful - Broken TV’s and injuries
+  * Benefits - Gets people active playing video games
+  * Harmful - Broken TV’s and injuries
 * 3D Printers
-> * Open-source software for the computer and printer
-> * In schools and homes
-> * Special 3D printers can make
-> > * Organs/Prosthetics
-> > * Houses
-> > * Shoes and jewelry
-> > * Themselves
+  * Open-source software for the computer and printer
+  * In schools and homes
+  * Special 3D printers can make
+    * Organs/Prosthetics
+    * Houses
+    * Shoes and jewelry
+    * Themselves
 
 * In first System the user hears the lists of departments and selects one on their phone which can lead to error
 * In second system the customer describes the issue, while the system tries to identify the issue, so we can assume it will work as intended unless stated otherwise
@@ -27,14 +27,14 @@
 
 Ex:
 * The Internet - Originally for Scientists
-> * Many people now spend more time on internet and sleeping
-> * What if you didn’t have the WWW
-> * Dopamine feedback loops, is you trying to seek out that sense of happiness and pleasure, but it can lead to sleep deprivation, depression, anxiety, impulsivity, etc.
+  * Many people now spend more time on internet and sleeping
+  * What if you didn’t have the WWW
+  * Dopamine feedback loops, is you trying to seek out that sense of happiness and pleasure, but it can lead to sleep deprivation, depression, anxiety, impulsivity, etc.
 * Microtransactions
-> * “Free” Games/Apps
-> * Cosmetics, paywall to functionality, sometimes pay-to-win
-> * Gold, V-bucks, coins, “chips”, SBUX
-> * Loot Boxes - Banned in some countries
+  * “Free” Games/Apps
+  * Cosmetics, paywall to functionality, sometimes pay-to-win
+  * Gold, V-bucks, coins, “chips”, SBUX
+  * Loot Boxes - Banned in some countries
 
 ## Github pages action
 ### 1. **Benefits**: Automation of certain tasks, Accurate compared to the factor of human error, Fast communication
@@ -44,21 +44,21 @@ Ex:
 ## 5.2 Notes
 
 * The digital divide refers to differing access to computing devices and the internet, based on;
-> * Socioeconomic
-> > * How much money comes into the household per year
-> * Geographic
-> > * Depending on your area of residence, ISPs may not provide high speed internet to your home
-> * Demographic characteristics
-> > * Age
-> > > * If you are older, you may not have devices in your household
-> > * Religion
-> > > * Example: the Amish People
+  * Socioeconomic
+    * How much money comes into the household per year
+  * Geographic
+    * Depending on your area of residence, ISPs may not provide high speed internet to your home
+  * Demographic characteristics
+    * Age
+      * If you are older, you may not have devices in your household
+    * Religion
+      * Example: the Amish People
 
 * Some countries
-> * Have rural areas where computers are not common
-> * Only allow you to visit a limited number of websites
-> * The internet is used to protect and advocate for the government
-> * High level of surveillance on the internet to protect the government
+  * Have rural areas where computers are not common
+  * Only allow you to visit a limited number of websites
+  * The internet is used to protect and advocate for the government
+  * High level of surveillance on the internet to protect the government
 
 ## Github pages action
 ### 1. People empower themselves in a digital world by first having access to the digital world, and then using the information and tools that they have obtained from this digital world to benefit themselves or others.
@@ -68,11 +68,11 @@ Ex:
 ## 5.3 Notes
 
 * Bias exists everywhere
-> * Bias includes rejecting somebody based on their age, gender, or ethnicity/race because it did not fit your computing model
+  * Bias includes rejecting somebody based on their age, gender, or ethnicity/race because it did not fit your computing model
 * Questions to ask about bias
-> * Enhancing or intentionally excluding?
-> * Intentionally harmful/hateful?
-> * Receiving feedback from a wide variety of people?
+  * Enhancing or intentionally excluding?
+  * Intentionally harmful/hateful?
+  * Receiving feedback from a wide variety of people?
 
 ## Github pages action
 ### 1. The owner of the computer does not think that this is intentional
@@ -84,11 +84,11 @@ Ex:
 
 ## 5.4 Notes
 * Distributive computing
-> * Use it to compute faster
+  * Use it to compute faster
 * Citizen science
-> * Giving citizens control of scientific research as long as it isn’t too demanding so the actual scientists can collect the data and use it
+  * Giving citizens control of scientific research as long as it isn’t too demanding so the actual scientists can collect the data and use it
 * Crowdsourcing
-> * Gaining information and data by obtaining the services of a large group of people 
+  * Gaining information and data by obtaining the services of a large group of people 
 
 ## Github pages action
 ### 1. A crowdsource idea in our enviornment could be a poll on whether or not you find CompSci hard to learn or not and we can collect that data and see how many people find learning CompSci easy and how many find it hard to learn CompSci
