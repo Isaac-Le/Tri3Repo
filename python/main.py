@@ -4,7 +4,7 @@
 # 2. function references will be executed directly file.function()
 from week0 import amongus, keypad, swap, tree
 from week1 import datalists, fibonacci
-from week2 import fibonacci_class, imperative_math, oop_math
+from week2 import factorial, imperative_math, oop_math
 
 main_menu = [
     ["Swap", swap.ageswap],
@@ -18,7 +18,7 @@ main_menu = [
 sub_menu = [
     ["Among Us", amongus.ship],
     ["Keypad", keypad.keypad],
-    ["Fibonacci Class", fibonacci_class.fibonacci_class],
+    ["Factorial", factorial.factorial_run],
     ["Greatest Common Denominator", imperative_math.gcd_run],
     ["OOP Math", oop_math.gcd_run]
 
