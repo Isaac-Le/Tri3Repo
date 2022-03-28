@@ -1,7 +1,7 @@
 {% include navbar.html %}
 
 # Test Prep
-[5.1](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#51-notes), [5.2](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#52-notes), [5.3](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#53-notes), [5.4](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#54-notes)
+[5.1](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#51-notes) | [5.2](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#52-notes) | [5.3](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#53-notes) | [5.4](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#54-notes) | [5.5](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#55-notes) | [5.6](https://github.com/Isaac-Le/Tri3Repo/blob/main/testprep.md#56-notes)
 
 ## 5.1 Notes
 
