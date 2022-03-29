@@ -21,7 +21,7 @@ def gcd_run():
     num1 = 68
     num2 = 126
     result = gcd(num1,num2)
-    print("-"*45, "\nThe least common multiple of", num1, "and", num2, "is", result) 
+    print("-"*45, "\nThe greatest common denominator of", num1, "and", num2, "is", result) 
 
 if __name__ == "__main__":
     gcd_run()
