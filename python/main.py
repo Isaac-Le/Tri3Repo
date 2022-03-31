@@ -5,7 +5,7 @@
 from week0 import amongus, keypad, swap, tree
 from week1 import datalists, fibonacci
 from week2 import factorial, imperative_math, oop_math
-from crossover import palindrome
+from crossover import palindrome, factor
 
 main_menu = [
     ["Swap", swap.ageswap],
@@ -22,7 +22,8 @@ sub_menu = [
     ["Factorial", factorial.factorial_run],
     ["Greatest Common Denominator", imperative_math.gcd_run],
     ["OOP Math", oop_math.gcd_run],
-    ["Palindrome Function", palindrome.menu]
+    ["Palindrome Function", palindrome.menu],
+    ["Factor Finding Function", factor.factorsmenu] 
 
 ]
 
