@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 Isaac Le's Review Tickets
 
 # Review Tickets
