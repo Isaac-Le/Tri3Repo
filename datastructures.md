@@ -135,4 +135,17 @@ def print_data(n):
     
 ```
 
+### Tree Function
+* This is what makes the stem of the tree adding in new rows until it reaches n. It loops around making the stem taller and taller depending on the n value.
+```
+
+  def pole(n):
+      for i in range(0,n):
+          for i in range(n+1):
+              print(' ', end=' ')
+          print('*****')
+  pole(2)
+  
+ ```
+
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@JeanKim4/jeanapcsptri3?embed=true" > 
