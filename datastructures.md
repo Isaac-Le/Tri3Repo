@@ -137,6 +137,8 @@ def print_data(n):
 
 ### Tree Function
 * This is what makes the stem of the tree adding in new rows until it reaches n. It loops around making the stem taller and taller depending on the n value.
+
+
 ```
 
   def pole(n):
