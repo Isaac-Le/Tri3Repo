@@ -9,3 +9,5 @@ Isaac Le's Review Tickets
 ### Week 1: [Review Ticket](https://github.com/Isaac-Le/Tri3Repo/issues/2)
 
 ### Week 2: [Review Ticket](https://github.com/Isaac-Le/Tri3Repo/issues/4)
+
+### Week 3: [Review Ticket](https://github.com/Isaac-Le/Tri3Repo/issues/5) | [Connor's Review Ticket with my grading of Akhil Video](https://github.com/connorw72/connorapcsptri3/issues/6)
