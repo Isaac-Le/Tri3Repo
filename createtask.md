@@ -18,8 +18,7 @@ We could add facts about the different countries if you guess the correct and if
 Isaac: https://user-images.githubusercontent.com/60956151/155924084-55305659-67d8-4cb0-99a1-2860af7af137.mp4
 
 # Final Code
-[file](https://github.com/tonyhieu/csp-anthonys-harem/blob/main/create_task/templates/countryguesser.html)
-
+[Code](https://replit.com/@IsaacLe2/Countryguesser#index.html)
 # Questions
 
 ### Isaac
