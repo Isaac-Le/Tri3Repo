@@ -16,4 +16,17 @@
 ![image](https://user-images.githubusercontent.com/60956151/164799421-64eec14d-0d9f-4f77-adf9-3d95fad495f9.png)
 14: C is wrong because the amont of data is not increaisng each year, and it is A because the amount of data that is stored for each user averages around 10 GB per user which is why it isnt C and instead A.
 
+# Finals Week 2 Quiz 3
 
+## CorrectionsL
+![image](https://user-images.githubusercontent.com/60956151/166330307-0bae3ab1-c1ff-4cfe-8fe2-47b60b92831b.png)
+18: B is wrong because when you plug it into the function the function still works as expected, however when C is plugged in the function stops working as intended
+
+![image](https://user-images.githubusercontent.com/60956151/166330795-75ca0b76-a8dd-42de-9ff4-359a7d433f7c.png)
+30: The internet is a set of intereconnected networks and not interconnected data sets
+
+![image](https://user-images.githubusercontent.com/60956151/166331035-4f23b2db-97ba-46a2-9f90-3d14bda4a48d.png)
+42: 2^7 power is 128 and 2^8 is 256
+
+![image](https://user-images.githubusercontent.com/60956151/166331148-aa6dbf0d-7247-4404-a051-82cc79267de0.png)
+43: People who sign up for a premium account do not get ads
