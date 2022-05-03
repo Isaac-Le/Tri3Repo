@@ -15,3 +15,5 @@ Isaac Le's Review Tickets
 ### Week 4: [Review Ticket](https://github.com/Isaac-Le/Tri3Repo/issues/7)
 
 ### Week 1 Proctered MCQ: [Review Ticket](https://github.com/Isaac-Le/Tri3Repo/issues/8)
+
+### Week 2 Proctered MCQ: [Review Ticket](https://github.com/Isaac-Le/Tri3Repo/issues/9)
