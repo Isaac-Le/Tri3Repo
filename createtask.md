@@ -2,6 +2,15 @@
 
 # Description
 Our create task is a game that will allow the user 5 attempts to guess a country and throughout those 5 attempts will give them 4 hints. After the 5 attempts, the game ends if they didn't guess correctly, however, if there is a correct guess then the game will tell the user that they have won. 
+
+## Crossover Comments for Create Task by Jean Kim
+* Interesting create performance task that captures all of the requirements
+* Video also meets all the requirements
+* List is important because it stores the names of the different countries
+* Secondary list to organize the countries by continent
+* Has 2 calls to the list with conditions, so that meets the requirements for written response 3d
+* Overall, create performance task is very interesting and engaging for the user because it is a fun game that is applicable
+
 ### Features:
 * input bar for the guessing of the countries
 * A Guess button to send the guess through the system and output correct or incorrect
@@ -18,7 +27,7 @@ We could add facts about the different countries if you guess the correct and if
 Isaac: https://user-images.githubusercontent.com/60956151/155924084-55305659-67d8-4cb0-99a1-2860af7af137.mp4
 
 # Final Code
-[Code](https://replit.com/@IsaacLe2/Countryguesser#index.html)
+[Code](https://replit.com/@IsaacLe2/Countryguesser)
 # Questions
 
 ### Isaac
