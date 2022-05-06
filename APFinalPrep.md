@@ -18,7 +18,7 @@
 
 # Finals Week 2 Quiz 3
 
-## CorrectionsL
+## Corrections
 ![image](https://user-images.githubusercontent.com/60956151/166330307-0bae3ab1-c1ff-4cfe-8fe2-47b60b92831b.png)
 18: B is wrong because when you plug it into the function the function still works as expected, however when C is plugged in the function stops working as intended
 
@@ -30,3 +30,15 @@
 
 ![image](https://user-images.githubusercontent.com/60956151/166331148-aa6dbf0d-7247-4404-a051-82cc79267de0.png)
 43: People who sign up for a premium account do not get ads
+
+# Finals Week 3 Quiz 5
+
+## Corrections:
+![image](https://user-images.githubusercontent.com/60956151/167219660-b9c9c535-54c2-4b28-82e3-5a19975739e1.png)
+43: B is correct because as the amount of users increases, the internet adjusts and adapts to scale for an increasing amount of viewers
+
+![image](https://user-images.githubusercontent.com/60956151/167219796-60913439-d2df-4a62-bcaf-8c12a2b3f342.png)
+45: C is correct because function one also works to display the correct average however it does it in a way where it uses much more arthmetic operations than in function 2
+
+![image](https://user-images.githubusercontent.com/60956151/167219925-5201a0de-236e-4547-b190-3bfe4aa9c19e.png)
+49: C is correct since if the exam value is over between 71-80 you get a C, and anything 70 and under is not a C. Therefore C is the correct answer.
